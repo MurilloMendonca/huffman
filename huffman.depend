@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1588380057 source:c:\users\muril\documents\huffman\main.cpp
+	<iostream>
+	<map>
+	<queue>
+	<bits/stdc++.h>
+	<cmath>
+	<vector>
+	<string>
+
