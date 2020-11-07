@@ -8,3 +8,12 @@
 	<vector>
 	<string>
 
+1604775727 source:/home/lucasmendes/Documents/huffman/main.cpp
+	<iostream>
+	<map>
+	<queue>
+	<bits/stdc++.h>
+	<cmath>
+	<vector>
+	<string>
+
